@@ -1,0 +1,19 @@
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+<div class="header navbar">
+ 
+        <span class="title">
+            <h1>naturamarket</h1>
+            <span class="material-symbols-outlined" >garden_cart </span>
+        </span>
+
+        <ul>
+            <li class="menu">
+                <a href="#">Registrar-se</a>
+            </li>
+            <li class="menu">
+                <a a href='login'>Entrar</a>
+            </li>
+        </ul> 
+</div>

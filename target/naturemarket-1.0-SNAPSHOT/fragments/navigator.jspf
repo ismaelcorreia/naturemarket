@@ -1,0 +1,10 @@
+<div class="navbar">
+    <ul>
+        <li class="menu">
+            <a href="#">Registrar-se</a>
+        </li>
+        <li class="menu">
+            <a href="#">Entrar</a>
+        </li>
+    </ul>
+</div>

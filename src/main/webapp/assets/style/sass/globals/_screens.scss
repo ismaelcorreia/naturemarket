@@ -1,0 +1,22 @@
+@media only screen and (max-width: 412px) {
+    .header{
+
+        justify-content: flex-end!important;
+        #logo{
+            align-self: center!important; 
+            justify-self: center!important;
+            margin-right: 40%!important;
+        }
+        .navbar{
+            position: absolute!important;
+            background-color: red;
+            flex-direction: column;
+            border-radius: 10px;
+            z-index: 10px;
+            width: 100vh;
+
+        }
+    }
+    
+  
+}
